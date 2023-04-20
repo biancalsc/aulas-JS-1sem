@@ -1,0 +1,16 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "um": "node ./src/exer01",
+    "dois": "node ./src/exer02",
+    "tres": "node ./src/exer03",
+    "quatro": "node ./src/exer04",
+    "cinco": "node ./src/exer05"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
