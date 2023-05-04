@@ -1,0 +1,21 @@
+{
+  "name": "aula-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "um": "node ./src/ex01",
+    "dois": "node ./src/ex02",
+    "tres": "node ./src/ex03",
+    "quatro": "node ./src/ex04",
+    "cinco": "node ./src/ex05",
+    "seis": "node ./src/ex06",
+    "sete": "node ./src/ex07",
+    "oito": "node ./src/ex08",
+    "nove": "node ./src/ex09",
+    "dez": "node ./src/ex10"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

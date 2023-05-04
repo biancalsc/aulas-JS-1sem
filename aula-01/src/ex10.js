@@ -1,0 +1,6 @@
+peso = prompt("Entre com o peso (Kg):")
+altura = prompt("Entre com a altura (m):")
+peso = parseFloat(peso)
+altura = parseFloat(altura)
+imc = peso / (altura * altura)
+console.log( imc )
